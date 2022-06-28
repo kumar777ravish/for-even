@@ -1,0 +1,7 @@
+D:\foreven\foreven\foreven\obj\Debug\foreven.csproj.AssemblyReference.cache
+D:\foreven\foreven\foreven\obj\Debug\foreven.csproj.CoreCompileInputs.cache
+D:\foreven\foreven\foreven\bin\Debug\foreven.exe.config
+D:\foreven\foreven\foreven\bin\Debug\foreven.exe
+D:\foreven\foreven\foreven\bin\Debug\foreven.pdb
+D:\foreven\foreven\foreven\obj\Debug\foreven.exe
+D:\foreven\foreven\foreven\obj\Debug\foreven.pdb
